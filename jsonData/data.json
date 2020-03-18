@@ -1,0 +1,100 @@
+{
+    "cvData" : {
+        "fullName" : "Гайдуров Сергей Андреевич",
+        "position" : "Junior JavaScript Developer",
+        "phone" : "044 7824 221",
+        "email" : "gray.777777@gmail.com",
+        "sex" : "male",
+        "age" : 22,
+        "image" : "https://i.ibb.co/Gp1QD2n/ava.jpg",
+        "sections" :  [
+			{
+				"title" : "WORK EXPERIENCE",
+				"isOpen" : true,
+				"items" : [
+					{
+						"title" : "EPAM JavaScript courses",
+						"subTitle" : "Front-end Developer",
+						"from" : "Sep 2017",
+						"to" : "Jan 2018",
+						"items" : [
+							"Learning front-end technologies, html, css and javascript."
+						]
+					}
+				]
+			},
+			{
+				"title" : "EDUCATION",
+				"isOpen" : true,
+				"items" : [
+					{
+						"title" : "Belarusian State University of Informatics and Radioelectronics",
+						"subTitle" : "Radiotechnics and Electronics",
+						"from" : "Sep 2014",
+						"to" : "Jun 2018",
+						"items" : [
+						]
+					}
+				]
+			},
+			{
+				"title" : "SKILLS",
+				"isOpen" : true,
+				"items" : [
+					{
+						"title" : "Frontend",
+						"subTitle" : "",
+						"from" : "",
+						"to" : "",
+						"items" : [
+							"HTML5",
+							"CSS3",
+							"Responsive and cross-browser coding"
+						]
+					},
+					{
+						"title" : "JavaScript",
+						"subTitle" : "",
+						"from" : "",
+						"to" : "",
+						"items" : [
+							"ECMAScript 5-7",
+							"React",
+							"Redux"	
+						]
+					},
+					{
+						"title" : "Backend",
+						"subTitle" : "",
+						"from" : "",
+						"to" : "",
+						"items" : [
+							"Node.js",
+							"Express.js"
+						]
+					},
+					{
+						"title" : "Additional technologies and tools",
+						"subTitle" : "",
+						"from" : "",
+						"to" : "",
+						"items" : [
+                            "Visual Studio Code",
+							"GitHub",
+							"Webpack"	
+						]
+                    },
+                    {
+						"title" : "English level",
+						"subTitle" : "",
+						"from" : "",
+						"to" : "",
+						"items" : [
+							"Upper-Intermediate"
+						]
+					}
+				]
+			}    
+        ]   
+    }
+}
